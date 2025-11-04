@@ -45,3 +45,5 @@ Angle Control: The bounce angle was adjusted based on the collision point betwee
 6. Conclusion
 
 The Pong game was successfully implemented with a simple rule-based AI. The project demonstrates a fundamental example of decision-making logic in games. As future work, a learning-based paddle agent (e.g., Q-Learning or DQN) could be added to enable dynamic difficulty and adaptive AI behavior.
+
+https://github.com/gorkemcann/ai-project1
